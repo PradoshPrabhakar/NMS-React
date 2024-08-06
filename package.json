@@ -1,0 +1,23 @@
+{
+  "name": "nm-react",
+  "version": "1.0.0",
+  "description": "NM-React project for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradoshPrabhakar/NM-React.git"
+  },
+  "keywords": [
+    "React.",
+    "Learn"
+  ],
+  "author": "Pradosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradoshPrabhakar/NM-React/issues"
+  },
+  "homepage": "https://github.com/PradoshPrabhakar/NM-React#readme"
+}
